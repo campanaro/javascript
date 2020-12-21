@@ -9,6 +9,6 @@ function linearSearch(list, key) {
     return -1
 }
 
-linearSearch(list, 1);  // 0
-linearSearch(list, 6);  // 5
-linearSearch(list, 10); // -1
+linearSearch(list, 1)  // 0
+linearSearch(list, 6)  // 5
+linearSearch(list, 10) // -1
