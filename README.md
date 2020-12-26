@@ -1,5 +1,9 @@
 # JavaScript
 
 ## Search
-  * [BinarySearch](https://github.com/campanaro/javascript/blob/main/src/Search/BinarySearch.js) O(1)
-  * [LinearSearch](https://github.com/campanaro/javascript/blob/main/src/Search/LinearSearch.js) O(N)
+  * [BinarySearch](https://github.com/campanaro/javascript/blob/main/src/Search/BinarySearch.js)
+  * [LinearSearch](https://github.com/campanaro/javascript/blob/main/src/Search/LinearSearch.js)
+
+## Tree
+  * [BinarySearch](https://github.com/campanaro/javascript/blob/main/src/Tree/BinarySearchTree.js)
+  

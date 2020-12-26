@@ -1,4 +1,12 @@
-// Binary Search O(1)
+// Binary Search
+
+// Class: Search algorithm
+// Data structure: Array
+
+// Worst-case performance      O(log n)
+// Best-case performance       O(1)
+// Average performance         O(log n)
+// Worst-case space complexity O(1)
 
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 const strings = ['Apples', 'Bananas', 'Mangoes', 'Oranges', 'Tomatoes', 'Watermelons']
