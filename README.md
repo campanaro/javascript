@@ -5,5 +5,5 @@
   * [LinearSearch](https://github.com/campanaro/javascript/blob/main/src/Search/LinearSearch.js)
 
 ## Tree
-  * [BinarySearch](https://github.com/campanaro/javascript/blob/main/src/Tree/BinarySearchTree.js)
+  * [BinarySearchTree](https://github.com/campanaro/javascript/blob/main/src/Tree/BinarySearchTree.js)
   
